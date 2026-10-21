@@ -217,4 +217,4 @@ You can report bugs and suggest features on the official 0 A.D. forums or throug
 Experience the excitement of building your ancient empire today. Download 0 A.D. for free and embark on an epic journey!
 
 ---
-**Last updated:** 2026-10-21 18:22:06 UTC
+**Last updated:** 2026-10-21 22:05:03 UTC
